@@ -4,6 +4,9 @@ on:
   # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
+    
+permissions:
+  contents: write
   
   # allows to manually run the job at any time
   workflow_dispatch:
