@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-
+![snake gif](https://github.com/C0ffiz/C0ffiz/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ###
 
@@ -67,4 +67,4 @@
 
 ###
 
-![snake gif](https://github.com/C0ffiz/C0ffiz/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
