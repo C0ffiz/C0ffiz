@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-    [![Spotify]("https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337")]("https://open.spotify.com/user/pugpug1337")
+    [![Spotify]("https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337")]
 </div>
 
 ###
