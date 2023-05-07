@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/pugpug1337">
-    <iframe src="https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337" frameborder="0"></iframe>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337"></img>
   </a>
 </div>
 
