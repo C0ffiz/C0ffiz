@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337)
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337)
 </div>
 
 ###
