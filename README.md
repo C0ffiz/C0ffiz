@@ -65,9 +65,6 @@
 
 ###
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337) />
-
 <p align="center" width="100%">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337">
 </p>
