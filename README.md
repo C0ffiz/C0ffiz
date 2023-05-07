@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-    <object type="image/svg+xml" data="https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337"></object>
+    <img type="image/svg+xml" data="https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337"> </img>
 </div>
 
 ###
