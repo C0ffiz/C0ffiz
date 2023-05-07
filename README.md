@@ -63,8 +63,11 @@
 ###
 
 
-<br align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337) />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337) />
 
+<p align="center" width="100%">
+    <img src="[https://i.stack.imgur.com/RJj4x.png](https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337)">
+</p>
 
 
 ###
