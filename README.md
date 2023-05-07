@@ -1,4 +1,4 @@
-[![Spotify]("https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337")]("https://open.spotify.com/user/pugpug1337")
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337)
 
 <h2 align="left">Hi 👋! My name is Lucas, but you can call me Coffee and I'm a Developer, from Brazil</h2>
 
