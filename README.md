@@ -61,7 +61,8 @@
 ###
 
 <div align="center">
-    [![Spotify]("https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337")]
+  ![c0ffiz's Stats](https://github-readme-stats.vercel.app/api?username=c0ffiz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+    [![Spotify]("https://spotify-recently-played-readme.vercel.app/api?user=pugpug1337")]("https://open.spotify.com/user/pugpug1337")
 </div>
 
 ###
