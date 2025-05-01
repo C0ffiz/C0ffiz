@@ -42,9 +42,6 @@
 ###
 
 <div align="center">
-  <a href="https://steamcommunity.com/id/omelhordocs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message= &label=Steam&logo=Steam&style=for-the-badge&color=555555&url=https%3A%2F%2Fshields.io" height="35" alt="steam logo"  />
-  </a>
   <a href="https://twitch.tv/C0ffiz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
